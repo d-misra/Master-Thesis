@@ -6,3 +6,6 @@
 **Video link** :
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/KZ6n8bIwbLE/0.jpg)](http://www.youtube.com/watch?v=KZ6n8bIwbLE "Video Title")
+
+
+**Team** : [Resibots](https://www.resibots.eu/index.html), team Larsen at INRIA Nancy under [Dr. Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/index.html) 
